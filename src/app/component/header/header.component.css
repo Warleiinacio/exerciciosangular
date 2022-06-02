@@ -1,0 +1,15 @@
+div{
+  background-color: black;
+
+}
+a{
+    display: inline-flex;
+    margin: 20px;
+    color: rgb(253, 253, 253);
+    background-color: rgba(184, 1, 1, 0.945);
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+
